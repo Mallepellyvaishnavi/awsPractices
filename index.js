@@ -5,9 +5,9 @@ const port = 3000;
 
 // Sample data
 const products = [
-  { id: 1, name: "Apple", price: 1.5 },
-  { id: 2, name: "Banana", price: 0.5 },
-  { id: 3, name: "Orange", price: 1.0 },
+  { id: 1, name: "venu", price: 1.5 },
+  { id: 2, name: "verey", price: 0.5 },
+  { id: 3, name: "aws", price: 1.0 },
 ];
 
 // GET all products
